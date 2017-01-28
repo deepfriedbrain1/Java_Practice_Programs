@@ -3,7 +3,7 @@ package TvProject;
 
 /**
  *
- * @author Albert
+ * @author Alberto Fernandez Saucedo
  */
 public class TestTV {
     
